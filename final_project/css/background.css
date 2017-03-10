@@ -1,0 +1,18 @@
+.fullscreen_bg{
+    position: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    background-size: cover;
+    /*padding-left: 150px;*/
+    background-position: 50% 50%;
+    background-image: url('http://images.freecreatives.com/wp-content/uploads/2016/05/PGradient-Background-For-Desktop.jpg');
+    background-repeat:repeat;
+}
+th {
+    background-size: 3096px auto;
+    background-repeat: no-repeat;
+    background-image: url("http://questromworld.bu.edu/studyabroad/files/2014/07/Luc-Australia-Beach.jpg");
+}
